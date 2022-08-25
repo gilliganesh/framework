@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15941" started-at="2022-08-02T19:03:46Z" finished-at="2022-08-02T19:04:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15941" started-at="2022-08-02T19:03:46Z" finished-at="2022-08-02T19:04:02Z">
+      <class name="baseclass.instaClass">
+        <test-method status="PASS" signature="tc02(java.lang.String, java.lang.String)[pri:0, instance:baseclass.instaClass@13a5fe33]" name="tc02" duration-ms="8307" started-at="2022-08-02T19:03:47Z" data-provider="Mylogin" finished-at="2022-08-02T19:03:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gilliganesh1609@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[gilli#123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc02 -->
+        <test-method status="PASS" signature="tc02(java.lang.String, java.lang.String)[pri:0, instance:baseclass.instaClass@13a5fe33]" name="tc02" duration-ms="6066" started-at="2022-08-02T19:03:56Z" data-provider="Mylogin" finished-at="2022-08-02T19:04:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[raina@123gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[raina123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc02 -->
+      </class> <!-- baseclass.instaClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
